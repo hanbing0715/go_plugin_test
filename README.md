@@ -1,0 +1,1 @@
+# go_plugin_test
